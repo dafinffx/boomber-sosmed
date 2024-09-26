@@ -3,7 +3,7 @@
 
 ``cd spam-SOSMED``
 
-python spamsosmed.py
+``python spamsosmed.py``
 
 note : agak bug maaf
 
