@@ -1,5 +1,5 @@
 # Spam Sosmed
-``git clone https://github.com/dafinffx/spam-SOSMED``
+``git clone https://github.com/dafinffx/boomber-sosmed``
 
 ``cd spam-SOSMED``
 
