@@ -1,7 +1,7 @@
 # Spam Sosmed
 ``git clone https://github.com/dafinffx/boomber-sosmed``
 
-``cd spam-SOSMED``
+``cd boomber-sosmed``
 
 ``python spamsosmed.py``
 
